@@ -7,7 +7,7 @@ seal: "Prata"                          # Entre as aspas escreve Bronze, Prata ou
 status: "Em progresso"                    # Entre aspas escreve o estado do relatório
 ---
 
-# Santa Casa da Misericórdia - Pack 2
+# Temporada Música em São Roque
 
 - Data de criação: 11/03/2026
 - URL: https://tmsr.scml.pt/
