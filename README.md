@@ -25,5 +25,5 @@ Consulte aqui a última atualização: [Relatório da Temporada Música em São 
   </ul>
 </details>
 
-## Declarações de Acessibilidade analisadas
+## Declaração de Acessibilidade analisada
 - https://tmsr.scml.pt/declaracao-de-acessibilidade/
