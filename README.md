@@ -16,7 +16,7 @@ status: "A aguardar correções da entidade"                    # Entre aspas es
 
 ## Relatório de Auditoria
 
-Consulte aqui a última atualização: [Relatório da Temporada Música em São Roque](relatorio_report_047.html)
+Consulte aqui a última atualização: [Relatório da Temporada Música em São Roque](report.html)
 
 <details>
   <summary>Histórico de atualizações</summary>
