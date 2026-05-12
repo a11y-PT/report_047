@@ -5,7 +5,7 @@ uri: "https://tmsr.scml.pt/"   # Entre as aspas escreve o domínio do website
 owner: "Santa Casa da Misericórdia"         # Entre as aspas escrever o nome do owner do website
 a11y_statement: "https://tmsr.scml.pt/declaracao-de-acessibilidade/" # Entre as aspas escrever o url da Declaração de Acessibilidade
 seal: "Prata"                          # Entre as aspas escreve Bronze, Prata ou Ouro
-status: "Auditoria cancelada porque criaram site novo"    # Entre as aspas escreve uma das seguintes opções: "Auditoria a decorrer", "A aguardar correções da entidade", "Concluído" 
+status: "Auditoria sem efeito porque criaram site novo"    # Entre as aspas escreve uma das seguintes opções: "Auditoria a decorrer", "A aguardar correções da entidade", "Concluído" 
 ---
 
 # Relatório de auditoria
