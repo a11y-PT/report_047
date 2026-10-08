@@ -2,7 +2,8 @@
 website: "Temporada Música em São Roque"          # Entre as aspas escreve o nome do website
 date: "11/03/2026"                    # Entre as aspas escreve a data de criação do 1º relatório. Os restantes estão no histórico
 uri: "https://tmsr.scml.pt/"   # Entre as aspas escreve o domínio do website
-a11y_statement: "" # Entre as aspas escrever o url da Declaração de Acessibilidade
+a11y_statement: "https://www" # Entre as aspas escrever o url da Declaração de Acessibilidade
+a11y_statement_date: "dd/mm/aaaa"  # Entre as aspas escreve a data da Declaração de Acessibilidade
 owner: "Santa Casa da Misericórdia"         # Entre as aspas escrever o nome do owner do website
 seal: "Prata"                          # Entre as aspas escreve Bronze, Prata ou Ouro
 status: "Auditoria sem efeito porque criaram site novo"    # Entre as aspas escreve uma das seguintes opções: "Auditoria a decorrer", "A aguardar correções da entidade", "Concluído" 
